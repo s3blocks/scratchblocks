@@ -1,14 +1,15 @@
 Make pictures of Scratch blocks from text.
 
-[![Screenshot](http://s3blocks.github.io/screenshot.png)](https://scratchblocks.github.io/#when%20flag%20clicked%0Aclear%0Aforever%0Apen%20down%0Aif%20%3C%3Cmouse%20down%3F%3E%20and%20%3Ctouching%20%5Bmouse-pointer%20v%5D%3F%3E%3E%20then%0Aswitch%20costume%20to%20%5Bbutton%20v%5D%0Aelse%0Aadd%20(x%20position)%20to%20%5Blist%20v%5D%0Aend%0Amove%20(foo)%20steps%0Aturn%20ccw%20(9)%20degrees)
+[![Screenshot](http://s3blocks.github.io/screenshot.png)](https://s3blocks.github.io/#when%20flag%20clicked%0Aclear%0Aforever%0Apen%20down%0Aif%20%3C%3Cmouse%20down%3F%3E%20and%20%3Ctouching%20%5Bmouse-pointer%20v%5D%3F%3E%3E%20then%0Aswitch%20costume%20to%20%5Bbutton%20v%5D%0Aelse%0Aadd%20(x%20position)%20to%20%5Blist%20v%5D%0Aend%0Amove%20(foo)%20steps%0Aturn%20ccw%20(9)%20degrees)
 
 **[Try it out!](http://s3blocks.github.io/)**
 
 ---
 
-**scratchblocks** is used to write Scratch scripts:
+**s3blocks** is used to write Scratch 3.0 scripts:
 
-- in [Scratch Forum](http://scratch.mit.edu/discuss/topic/14772/) posts
+- in [Scratch Forum 2.0](http://scratch.mit.edu/discuss/topic/14772/) posts
+- in [Scratch Forum 3.0](https://scratch.mit.edu/discuss/topic/290031/) posts
 - in [Scratch Wiki](http://wiki.scratch.mit.edu/wiki/Block_Plugin) articles 
 - in the [Code Club](https://www.codeclub.org.uk) project guides
 

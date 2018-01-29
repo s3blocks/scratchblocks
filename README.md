@@ -148,7 +148,7 @@ npm install
 npm start
 ```
 
-Then open <http://localhost:8000/> :-)
+Then open <http://localhost:8080/> :-)
 
 For more details, see [`CONTRIBUTING.md`](https://github.com/tjvr/scratchblocks/blob/master/.github/CONTRIBUTING.md).
 

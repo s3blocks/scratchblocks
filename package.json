@@ -1,6 +1,6 @@
 {
-  "name": "scratchblocks",
-  "version": "3.1.2",
+  "name": "s3blocks",
+  "version": "4.3.0",
   "description": "Render scratchblocks code to SVG images.",
   "main": "headless.js",
   "browser": "browser.js",
@@ -12,21 +12,21 @@
     "test-headless": "node tests/headless.js",
     "build": "browserify browser.js -o build/scratchblocks.min.js -t [ babelify --presets [ es2015 babili ] ]",
     "fmt": "prettier --no-semi --trailing-comma es5 --write *.js lib/*.js",
-    "start": "beefy browser.js:bundle.js --live --port 8000"
+    "start": "beefy browser.js:bundle.js --live --port 8080"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tjvr/scratchblocks.git"
+    "url": "git+https://github.com/s3blocks/s3blocks.git"
   },
   "keywords": [
     "scratch"
   ],
-  "author": "tjvr",
+  "author": "NitroCipher",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tjvr/scratchblocks/issues"
+    "url": "https://github.com/s3blocks/s3blocks/issues"
   },
-  "homepage": "https://scratchblocks.github.io/",
+  "homepage": "https://s3blocks.github.io/",
   "devDependencies": {
     "babel-preset-es2015": "^6.22.0",
     "babelify": "^7.3.0",

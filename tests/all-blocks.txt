@@ -79,6 +79,9 @@ rest for (0.2) beats
 play note (60 v) for (0.5) beats
 set instrument to (1 v)
 
+change [pitch v] effect by (10)
+set [pitch v] effect to (10)
+
 change volume by (-10)
 set volume to (100)%
 (volume)
